@@ -93,17 +93,17 @@ java -version
 
 ### Pseudocode:
 
-START
-Generate random word from predefined list.
-Prompt user to guess a word.
-Validate input length (must be 5 characters).
-Compare guessed word with target word:
-Use "|" for correct letter and position.
-Use "" for correct letter but incorrect position.
-Display incorrect letters without symbols.
-If guessed correctly, display success message and exit.
-Repeat steps until all attempts are exhausted.
-Display failure message and reveal correct word.
+## START
+-Generate random word from predefined list.
+-Prompt user to guess a word.
+-Validate input length (must be 5 characters).
+-Compare guessed word with target word:
+-Use "|" for correct letter and position.
+-Use "" for correct letter but incorrect position.
+-Display incorrect letters without symbols.
+-If guessed correctly, display success message and exit.
+-Repeat steps until all attempts are exhausted.
+-Display failure message and reveal correct word.
 END
 
 
@@ -111,15 +111,15 @@ END
 When you run the program, it will look like this:
 
 
-WELCOME TO THIS GAME OF WORDLE
-YOU WILL BE GIVEN 5 CHANCES TO GUESS A 5 LETTER WORD
-Enter your guesses below:
-Guess #1: hello
-Output: h e l l o
-Irrelevant Letters: /h/ /l/ /o/
-Guess #2: world
-Output: w |o| r l d
-Irrelevant Letters: /r/ /l/ /d/
+-WELCOME TO THIS GAME OF WORDLE
+-YOU WILL BE GIVEN 5 CHANCES TO GUESS A 5 LETTER WORD
+-Enter your guesses below:
+-Guess #1: hello
+-Output: h e l l o
+-Irrelevant Letters: /h/ /l/ /o/
+-Guess #2: world
+-Output: w |o| r l d
+-Irrelevant Letters: /r/ /l/ /d/
 
 
 ## Troubleshooting
@@ -133,6 +133,7 @@ This project is distributed under the MIT License.
 ## Contact Information
 For questions or support, contact:
 
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile]
+- **Name**: Likhil N Maiya
+- **Email**: likhilnm17103@gmail.com
+- **GitHub**: https://github.com/lickhill
+  
